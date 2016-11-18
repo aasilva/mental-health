@@ -177,7 +177,8 @@ body {
         background-image: url("../images/logo-header-en.png");
         background-size: cover;
         background-position: center;
-        transition: all 0.1s; }
+        transition: all 0.1s;
+        text-indent: -9999px; }
       .header-view .logo-container .logo img {
         width: 170px; }
       .header-view .logo-container .logo::after {

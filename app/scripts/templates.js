@@ -40,7 +40,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
 this["JST"]["app/scripts/templates/common/header.hbs"] = Handlebars.template(function (Handlebars,depth0,helpers,partials,data) {
   this.compilerInfo = [4,'>= 1.0.0'];
 helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
-  var buffer = "", stack1, helper, options, self=this, helperMissing=helpers.helperMissing, functionType="function", escapeExpression=this.escapeExpression;
+  var buffer = "", stack1, helper, options, functionType="function", escapeExpression=this.escapeExpression, self=this, helperMissing=helpers.helperMissing;
 
 function program1(depth0,data) {
   
@@ -48,7 +48,12 @@ function program1(depth0,data) {
   return "selected";
   }
 
-  buffer += "<div class=\"header-container\">\n\n    <div class=\"logo-container\">\n        <div id=\"logo\" class=\"logo\">\n            <div class=\"logo-img\"></div>\n            <!--<img src=\"images/logo-header-en.png\" alt=\"logo header english version\">-->\n        </div>\n    </div>\n\n    <div class=\"menu-button\" id=\"open-menu\">\n        <img src=\"images/icons/ic_menu_black.svg\" alt=\"hamburguer menu icon\">\n    </div>\n\n    <div class=\"menu invisible\" id=\"menu\">\n        <div class=\"close\" id=\"close-menu\">\n            <img src=\"images/icons/ic_close_black.svg\" alt=\"close menu icon\">\n        </div>\n        <ul  class=\"menu-navigation\">\n            <li class=\"menu-navigation-item ";
+  buffer += "<div class=\"header-container\">\n\n    <div class=\"logo-container\">\n        <div id=\"logo\" class=\"logo\">\n            <a href=\"";
+  if (helper = helpers.fid) { stack1 = helper.call(depth0, {hash:{},data:data}); }
+  else { helper = (depth0 && depth0.fid); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
+  buffer += escapeExpression(stack1)
+    + escapeExpression(((stack1 = ((stack1 = ((stack1 = (depth0 && depth0.i18n)),stack1 == null || stack1 === false ? stack1 : stack1.route)),stack1 == null || stack1 === false ? stack1 : stack1.home)),typeof stack1 === functionType ? stack1.apply(depth0) : stack1))
+    + "\" class=\"logo-img\">Mental Health</a>\n            <!--<img src=\"images/logo-header-en.png\" alt=\"logo header english version\">-->\n        </div>\n    </div>\n\n    <div class=\"menu-button\" id=\"open-menu\">\n        <img src=\"images/icons/ic_menu_black.svg\" alt=\"hamburguer menu icon\">\n    </div>\n\n    <div class=\"menu invisible\" id=\"menu\">\n        <div class=\"close\" id=\"close-menu\">\n            <img src=\"images/icons/ic_close_black.svg\" alt=\"close menu icon\">\n        </div>\n        <ul  class=\"menu-navigation\">\n            <li class=\"menu-navigation-item ";
   stack1 = (helper = helpers.ifCond || (depth0 && depth0.ifCond),options={hash:{},inverse:self.noop,fn:self.program(1, program1, data),data:data},helper ? helper.call(depth0, (depth0 && depth0.catg), "===", "home", options) : helperMissing.call(depth0, "ifCond", (depth0 && depth0.catg), "===", "home", options));
   if(stack1 || stack1 === 0) { buffer += stack1; }
   buffer += "\"><a href=\"";

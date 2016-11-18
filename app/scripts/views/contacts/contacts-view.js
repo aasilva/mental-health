@@ -59,7 +59,7 @@ define([
     _sendEmail: function(name, email, message) {
       //TODO: Change email at url
       $.ajax({
-        url: "https://formspree.io/aasilva01@gmail.com",
+        url: "https://formspree.io/jperelman@ensp.unl.pt",
         type: 'POST',
         data: {
           name: name,
