@@ -1,0 +1,84 @@
+.home-view {
+  @include _(limited-full-width);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @include breakpoint(small) {
+    flex-direction: column;
+  }
+
+  .home-block {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-width:270px;
+
+    margin-top: 1px;
+    padding: 12px;
+
+    text-align: center;
+
+    border-top: 6px solid $bondi-blue;
+
+    &.lighter {
+      border-top: 6px solid rgba(0, 159, 170, 0.6);
+    }
+
+
+    h1 {
+      text-transform: uppercase;
+      margin: 8px 0;
+    }
+
+    .divider {
+      width: 100%;
+      height: 1px;
+      background-color: $bondi-blue;
+      margin: 12px 0;
+    }
+
+    .subtitle,
+    .date {
+      text-align: left;
+      margin-bottom: 8px;
+      color: $bondi-blue;
+    }
+
+    .description {
+      position: relative;
+      font-size: 14px;
+      line-height: 19px;
+      text-align: left;
+      overflow: hidden;
+      transition: max-height 0.8s;
+
+      &.events {
+        max-height: 100px;
+      }
+
+      &.compressed {
+        max-height: 40px;
+
+        .show-hide-button {
+          background-image: url('../images/icons/add.svg');
+        }
+      }
+
+
+      .show-hide-button {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 17px;
+        height: 17px;
+        background-image: url('../images/icons/remove.svg');
+        background-size: cover;
+        cursor: pointer;
+
+        transition: background-image 0.8s;
+      }
+
+    }
+  }
+}

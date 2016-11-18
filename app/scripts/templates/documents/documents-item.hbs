@@ -1,0 +1,24 @@
+<div class="document-icon">
+    <img src="images/icons/documents.png" alt="download document icon">
+</div>
+
+<div class="document-title">
+    <p>{{noHTML data.content}} <br> {{data.when}}</p>
+
+    <div class="document-download">
+        {{#if data.documentUrl}}
+          <a href="{{data.documentUrl}}" target="_blank" title="download document">
+              <img src="images/icons/download.svg" alt="download document icon">
+              <p>({{i18n.englishVersion}})</p>
+          </a>
+        {{/if}}
+
+      {{#if data.documentUrlPt}}
+          <a href="{{data.documentUrlPt}}" target="_blank" title="download document portuguese version">
+              <img src="images/icons/download.svg" alt="download document icon">
+              <p>({{i18n.portugueseVersion}})</p>
+          </a>
+      {{/if}}
+    </div>
+</div>
+

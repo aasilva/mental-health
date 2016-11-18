@@ -1,0 +1,46 @@
+<div class="top-bar"></div>
+
+<div class="container">
+  <div class="wrapper">
+      <h1 class="page-title">{{i18n.contactsTitle}}</h1>
+
+      <div class="phone">
+          <img src="images/icons/phone.svg" alt="phone icon">
+          <a href="tel:{{i18n.phoneReadyToCall}}">{{i18n.phone}}</a>
+      </div>
+      <div class="email">
+          <img src="images/icons/email.svg" alt="email icon">
+        {{i18n.email}}
+      </div>
+      <div class="address">
+          <img src="images/icons/locale.svg" alt="address icon">
+        {{i18n.address}}
+      </div>
+      <div class="facebook-url">
+          <img src="images/icons/facebook.svg" alt="facebook icon">
+          <a href="https://{{i18n.facebookUrl}}" target="_blank">{{i18n.facebookUrl}}</a>
+      </div>
+
+  </div>
+
+  <div class="wrapper form">
+      <form>
+          <label for="name" class="form-name-label">
+              <p>Name</p>
+              <input type="text" name="name" id="form-name" class="form-name-input" placeholder="Your name">
+          </label>
+
+          <label for="email" class="form-email-label">
+              <p>Email</p>
+              <input type="email" name="_replyto" id="form-email" class="form-email" placeholder="Your email">
+          </label>
+
+          <label for="message" class="form-message-label">
+              <p>Message</p>
+              <textarea name="message" id="form-message" class="form-message" placeholder="Your message here..."> </textarea>
+          </label>
+
+          <input type="submit" id="form-send" class="form-send" value="Send">
+      </form>
+  </div>
+</div>

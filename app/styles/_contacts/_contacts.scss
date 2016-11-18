@@ -1,0 +1,134 @@
+.contacts-view {
+
+  .top-bar {
+    @include _(limited-second-full-width);
+    position: relative;
+    display: block;
+
+    height: 6px;
+    width: 100%;
+    background-color: rgba(0, 159, 170, 0.6);
+
+
+    &::before,
+    &::after {
+      content: '';
+      position:absolute;
+      left: 0;
+      width: 30%;
+      height: 100%;
+      background-color: rgba(0, 159, 170, 1);
+    }
+
+    &::after{
+      left: initial;
+      right: 0;
+    }
+
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap ;
+    @include _(limited-second-full-width);
+
+    @include breakpoint(small) {
+      flex-direction: column;
+      padding: 8px;
+    }
+
+    .wrapper {
+      width: 50%;
+      min-width: 350px;
+
+      @include breakpoint(small) {
+        width: 100%;
+      }
+
+      &.form {
+        margin-top: 70px;
+      }
+
+      form {
+        display: flex;
+        flex-direction: column;
+
+        label {
+          display: flex;
+          justify-content: flex-end;
+          align-items: center;
+          margin: 8px;
+          text-transform: uppercase;
+
+          p {
+            margin-right: 16px;
+          }
+        }
+
+        input,
+        textarea {
+          width: 325px;
+          outline: none;
+          border: 1px solid $tiffany;
+          padding: 8px;
+          resize: none;
+          border-radius: 0;
+        }
+
+        textarea {
+          height: 100px;
+        }
+
+        .form-send {
+          color: $white;
+          background-color: $tiffany;
+          border: none;
+          width: 80px;
+          text-transform: uppercase;
+          font-size: 17px;
+          margin-right: 8px;
+          margin-left: auto;
+        }
+
+        .form-message {
+
+          &-label {
+            align-items: initial;
+          }
+
+        }
+      }
+    }
+
+    .page-title {
+
+      padding: 23px 0;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 32px;
+      border-bottom: 1px solid $tiffany;
+      margin: 0 30% 33px 0;
+    }
+
+    .phone,
+    .email,
+    .address,
+    .facebook-url {
+      display: flex;
+      align-items: center;
+      margin-bottom: 12px;
+      max-width:280px;
+
+      img {
+        width: 24px;
+        margin-right: 12px;
+      }
+    }
+
+    .address {
+      align-items: flex-start;
+    }
+  }
+
+
+}

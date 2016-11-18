@@ -1,0 +1,25 @@
+.events-view {
+  background-color: $seashell;
+
+  .title-wrapper {
+    width: 100%;
+    background: $white;
+
+    .page-title {
+      @include _(limited-second-full-width);
+      border-top: solid 6px $daintree;
+
+      padding: 36px 0;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  }
+
+  .events-list {
+    @include _(limited-full-width);
+    display: flex;
+    flex-wrap: wrap;
+
+    padding-top:32px;
+  }
+}

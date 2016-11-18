@@ -1,0 +1,17 @@
+.timeline-view {
+  @include _(limited-full-width);
+
+  padding-bottom: 24px;
+
+
+  .page-title {
+    border-top: solid 6px $daintree;
+    margin: 0 25px;
+    padding: 36px 0;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+
+
+}

@@ -1,0 +1,206 @@
+{
+  "route": {
+    "landing": "landing",
+    "home": "home",
+    "contacts": "contacts",
+    "documents": "documents",
+    "events": "events",
+    "project": "project",
+    "team": "team",
+    "timeline": "timeline"
+  },
+  "phone": "+351 217 512 100",
+  "phoneReadyToCall": "+351217512100",
+  "email": "jperelman@ensp.unl.pt",
+  "address": "Avenida António Padre Cruz, 1600-566, Lisbon, Portugal",
+  "facebookUrl": "facebook.com/mentalhealthportugal",
+  "eventsTitle": "Events",
+  "welcomeTitle": "Welcome",
+  "timelineTitle": "Timeline",
+  "projectTitle": "Project",
+  "contactsTitle": "Contacts",
+  "documentsTitle": "Documents",
+  "researchers": "researchers",
+  "experts": "experts",
+  "partners": "partners",
+  "teamTitle": "Team",
+  "FID": "#",
+  "title": "Innovative payment models",
+  "subtitle": "for the Portuguese mental health system",
+  "titleFull": "Innovative payment models for the Portuguese mental health system",
+  "tagline": "Welcome to the website of the project 00065SM1, financed by Norway, Iceland and Liechenstein, through the EEA Grants, and inserted in the program \"Public Health Initiatives\", of ACSS (Central Administration of the Health System), with the title \"Reassessing the Portuguese mental health system: evaluating its performance, and designing a new financial and organizational model aimed at enhancing its equity, efficiency, and quality\".",
+  "more": "more",
+  "presentations": "Presentations",
+  "theory": "Theory",
+  "reports": "Reports",
+  "timeline01": "Literature review on healthcare payment schemes, performance evaluation criteria and incentives",
+  "timeline01date": "April 15 - June 30 2015",
+  "timeline02": "Mapping and evaluation of the current mental healthcare payment model in Portugal",
+  "timeline02date": "July 1 - September 15 2015",
+  "timeline03": "Discussion of the mapping and evaluation with partners and other experts",
+  "timeline03date": "September 16 - September 30 2015",
+  "timeline04": "Literature review on mental healthcare payment schemes in several countries",
+  "timeline04date": "October 1 - November 30 2015",
+  "timeline05": "Collection of data about the use of resources in the treatment of mental health problems in Portugal",
+  "timeline05date": "16 October - September 30 2016",
+  "timeline06": "Proposal, in qualitative terms, of a new payment model for mental healthcare in Portugal",
+  "timeline06date": "December 1 - February 15 2016",
+  "timeline07": "Theoretical study about mental healthcare payment schemes when treatment non-compliance is possible",
+  "timeline07date": "February 1 - July 31 2016",
+  "timeline08": "Discussion of the proposal with partners and other experts",
+  "timeline08date": "February 16 - March 31 2016",
+  "timeline09": "Analysis of the data collected",
+  "timeline09date": "April 1 - November 30 2016",
+  "timeline10": "Quantification of the proposal",
+  "timeline10date": "December 1 - March 15 2017",
+  "timeline11": "Discussion of the final proposal with partners and other experts",
+  "timeline11date": "16 March - April 30 2017",
+  "englishVersion": "english version",
+  "portugueseVersion": "portuguese version",
+  "alert": {
+    "messageSent": "Thanks for contact us",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "insertValidEmail": "Please insert a valid email",
+    "writeMessage": "Please write a message"
+  },
+  "project": {
+    "articles": [
+      {
+        "title": "The Portuguese mental health system was scrutinized in detail in the National Mental Health Plan 2007 – 2016, and several limitations were found, such as:",
+        "paragraph": [
+          "Insufficient access to care;",
+          "Excess of in-patient admissions (which consumes 83% of resources) versus insufficient community interventions;",
+          "Excess of emergency visits and readmissions at hospitals, related to the limited access to ambulatory care;",
+          "Insufficient development of prevention/promotion;",
+          "Inequality in the distribution of resources: coastal versus inland, psychiatric versus general hospitals;",
+          "Insufficient human resources, not only in regard to physicians (low ratios of psychiatrists) but also to other health professionals (psychiatric nurses, psychologists, social assistants, occupational therapists);",
+          "Reduced global financing."
+        ]
+      },
+      {
+        "title": "At about the same time, the WHO launched a series of recommendations that are well-adapted to the difficulties faced by the Portuguese mental health system, the main being:",
+        "paragraph": [
+          "The organization of mental health in geo-demographic areas, which guarantee the physical access to treatment;",
+          "The integration of units and programs, including in-patient care, in order to guarantee a response to the various needs;",
+          "A common coordination for mental health;",
+          "The involvement of patients and their families, and the different community entities;",
+          "A strong articulation with primary care;",
+          "The collaboration with the social sector and NGOs for the rehabilitation and long-term care of high-severity patients."
+        ]
+      },
+      {
+        "title": "There are some changes that may be introduced in the mental health system, so that it improves in the direction defined by the WHO. Recognizing that, the project focuses on payment models. That is, it studies the incentives which are created by the current payment mechanisms that apply to mental health providers, and proposes a new model that, hopefully, will contribute to an alignment between the providers' behavior and the objectives defined for mental health in Portugal. More specifically, it is dedicated to the following three main tasks:",
+        "paragraph": [
+          "Mapping of the portuguese mental health system, and detailed description and evaluation of its current payment model, regarding the incentives it creates and the impact it has on healthcare;",
+          "Acknowledging the strenghts and weaknesses of the current payment model, design of a new, innovative one, that stimulates the best practices in mental healthcare;",
+          "Analysis of the resources needed for the treatment of several mental health problems in Portugal, so that it is possible to quantify the proposal of a new payment model."
+        ]
+      }
+    ]
+  },
+  "team": {
+    "researchers": [
+      {
+        "name":"Julian Perelman",
+        "organization": "Escola Nacional de Saúde Pública",
+        "initials": "ENSP-UNL",
+        "avatar": "images/team/members/julian_perelman.jpg",
+        "logo": "images/organizations/unl_ensp.png"
+      },
+      {
+        "name":"Joana Alves",
+        "organization": "Escola Nacional de Saúde Pública",
+        "initials": "ENSP-UNL",
+        "avatar": "images/team/members/joana_alves.png",
+        "logo": "images/organizations/unl_ensp.png"
+      },
+      {
+        "name":"Pedro Chaves",
+        "organization": "Escola Nacional de Saúde Pública",
+        "initials": "ENSP-UNL",
+        "avatar": "images/team/members/pedro_chaves.jpg",
+        "logo": "images/organizations/unl_ensp.png"
+      },
+      {
+        "name":"Maria Ana Matias",
+        "organization": "Escola Nacional de Saúde Pública",
+        "initials": "ENSP-UNL",
+        "avatar": "images/team/members/maria_ana_matias.jpg",
+        "logo": "images/organizations/unl_ensp.png"
+      }
+    ],
+    "experts": [
+      {
+        "name":"Alexandre Lourenço",
+        "organization": "Centro Hospitalar e Universitário de Coimbra",
+        "initials": "CHUC",
+        "avatar": "images/team/members/alexandre_lourenco.png",
+        "logo": "images/organizations/centro_hospitalar_psiquiatrico_de_lisboa.jpg"
+      },
+      {
+        "name":"Álvaro Carvalho",
+        "organization": "Direcção Geral de Saúde",
+        "initials": "DGS",
+        "avatar": "images/team/members/alvaro_carvalho.png",
+        "logo": "images/organizations/direcao_geral_da_saude.png"
+      },
+      {
+        "name":"António Leuschner",
+        "organization": "Hospital Magalhães Lemos",
+        "initials": "HML",
+        "avatar": "images/team/members/antonio_leuschner.png",
+        "logo": "images/organizations/hospital_de_magalhaes_lemos.jpg"
+      },
+      {
+        "name":"Carla Spínola",
+        "organization": "Centro Hospitalar Lisboa Ocidental",
+        "initials": "CHLO",
+        "avatar": "images/team/members/carla_spinola.png",
+        "logo": "images/organizations/centro_hospitalar_de_lisboa_ocidental.jpg"
+      },
+      {
+        "name":"Isabel Paixão",
+        "organization": "Centro Hospitalar Psiquiátrico de Lisboa",
+        "initials": "CHPL",
+        "avatar": "images/default-avatar.png",
+        "logo": "images/organizations/centro_hospitalar_psiquiatrico_de_lisboa.jpg"
+      },
+      {
+        "name":"Joaquim Gago",
+        "organization": "Centro Hospitalar Lisboa Ocidental",
+        "initials": "CHLO",
+        "avatar": "images/team/members/joaquim_gago.png",
+        "logo": "images/organizations/centro_hospitalar_de_lisboa_ocidental.jpg"
+      },
+      {
+        "name":"José Caldas de Almeida",
+        "organization": "Nova Medical School",
+        "initials": "NMS",
+        "avatar": "images/team/members/jose_caldas_de_almeida.png",
+        "logo": "images/organizations/nova_medical_school.jpg"
+      },
+      {
+        "name":"Luís Pisco",
+        "organization": "Administração Regional de Lisboa e Vale do Tejo",
+        "initials": "ARSLVT",
+        "avatar": "images/team/members/luis_pisco.png",
+        "logo": "images/organizations/administracao_regional_de_saude_de_lisboa_e_vale_do_tejo.jpg"
+      },
+      {
+        "name":"Maria Emilia Pereira",
+        "organization": "Centro Hospitalar Lisboa Ocidental",
+        "initials": "CHLO",
+        "avatar": "images/team/members/maria_emilia_pereira.png",
+        "logo": "images/organizations/centro_hospitalar_de_lisboa_ocidental.jpg"
+      },
+      {
+        "name":"Ricardo Mestre",
+        "organization": "Administração Central do Sistema de Saúde",
+        "initials": "ACSS",
+        "avatar": "images/team/members/ricardo_mestre.png",
+        "logo": "images/organizations/acss.jpg"
+      }
+    ]
+  }
+}

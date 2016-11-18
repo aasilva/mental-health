@@ -1,0 +1,20 @@
+<h1 class="page-title">{{t 'projectTitle'}}</h1>
+
+<article>
+
+    <div class="article-content">
+
+      {{#each i18n.project.articles}}
+
+          <h2 class="article-title">{{title}}</h2>
+
+        {{#each paragraph}}
+              <p class="article-paragraph">- {{this}}</p>
+          {{/each}}
+
+      {{/each}}
+
+    </div>
+
+</article>
+

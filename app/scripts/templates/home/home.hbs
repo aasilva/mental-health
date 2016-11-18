@@ -1,0 +1,35 @@
+<article class="home-block">
+    <h1>{{t 'welcomeTitle'}}</h1>
+    <div class="divider"></div>
+    <div class="subtitle">{{i18n.titleFull}}</div>
+    <p class="description">{{i18n.tagline}}</p>
+</article>
+
+<article class="home-block lighter">
+    <h1><a href="{{fid}}{{i18n.route.events}}">{{t 'eventsTitle'}}</a></h1>
+  {{#each data}}
+      <div class="divider"></div>
+      <div class="date">{{custom_fields.when.[0]}}</div>
+      <p class="description events compressed">
+        {{noHTML content}}
+        <span class="show-hide-button"></span>
+      </p>
+  {{/each}}
+</article>
+
+<articlie class="home-block">
+    <h1><a href="{{fid}}{{i18n.route.timeline}}">{{t 'timelineTitle'}}</a></h1>
+    <div class="divider"></div>
+    <div class="date">{{t 'timeline09date'}}</div>
+    <p class="description">{{t 'timeline09'}}</p>
+
+    <div class="divider"></div>
+    <div class="date">{{t 'timeline10date'}}</div>
+    <p class="description">{{t 'timeline10'}}</p>
+
+    <div class="divider"></div>
+    <div class="date">{{t 'timeline11date'}}</div>
+    <p class="description">{{t 'timeline11'}}</p>
+</articlie>
+
+

@@ -1,0 +1,688 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: SITE-FINAL.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: points
+Artboard Dimensions: 841,89 pt x 704,5701 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Myriad Pro (OTF)
+Trebuchet MS (OTF)
+Trebuchet MS Bold (OTF)
+Verdana (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Screen Shot 2016-07-21 at 09.17.02
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5612K, 1814 by 792 pixels
+Dimensions: 853,832 by 372,787 points 
+Resolution: 152,967 by 152,967 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Creative Cloud Files/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Enviar/9498719_l.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 12285K, 2508 by 1672 pixels
+Dimensions: 842,405 by 561,604 points 
+Resolution: 214,358 by 214,358 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/icontime_HwcoAid.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1024K, 512 by 512 pixels
+Dimensions: 15,032 by 15,032 points 
+Resolution: 2452,291 by 2452,291 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/map-marker_318-50706.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1148K, 626 by 626 pixels
+Dimensions: 13,692 by 13,692 points 
+Resolution: 3291,915 by 3291,915 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/icontime_HwcoAid.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1024K, 512 by 512 pixels
+Dimensions: 15,032 by 15,032 points 
+Resolution: 2452,291 by 2452,291 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/map-marker_318-50706.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1148K, 626 by 626 pixels
+Dimensions: 13,692 by 13,692 points 
+Resolution: 3291,915 by 3291,915 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 25,555 by 24,653 points 
+Resolution: 478,963 by 478,963 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 26,156 by 25,233 points 
+Resolution: 467,958 by 467,958 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 25,555 by 24,653 points 
+Resolution: 478,963 by 478,963 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 26,156 by 25,233 points 
+Resolution: 467,958 by 467,958 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/map-marker_318-50706.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1148K, 626 by 626 pixels
+Dimensions: 13,692 by 13,692 points 
+Resolution: 3291,915 by 3291,915 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/unl_ensp.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 419K, 471 by 228 pixels
+Dimensions: 124,471 by 60,254 points 
+Resolution: 272,448 by 272,448 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/norwegian_directorate_of_health.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 20K, 100 by 70 pixels
+Dimensions: 84,648 by 59,254 points 
+Resolution: 85,058 by 85,058 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/hospital_de_magalhaes_lemos.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 47K, 206 by 79 pixels
+Dimensions: 159,826 by 61,292 points 
+Resolution: 92,801 by 92,801 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/eea_grants.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 371K, 433 by 293 pixels
+Dimensions: 88,826 by 60,106 points 
+Resolution: 350,979 by 350,979 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/centro_hospitalar_psiquiatrico_de_lisboa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 106 by 123 pixels
+Dimensions: 51,064 by 59,254 points 
+Resolution: 149,459 by 149,459 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/universite_catholique_de_louvain.jpg
+Type: CMYK
+Bits per Pixel: 32
+Channels: 4
+Size: 4082K, 1181 by 885 pixels
+Dimensions: 79,072 by 59,254 points 
+Resolution: 1075,376 by 1075,376 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/universita_degli_studi_di_verona.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 118K, 200 by 202 pixels
+Dimensions: 58,319 by 58,902 points 
+Resolution: 246,918 by 246,918 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/nova_medical_school.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 159K, 300 by 181 pixels
+Dimensions: 91,581 by 55,254 points 
+Resolution: 235,858 by 235,858 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/centro_hospitalar_de_lisboa_ocidental.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 867K, 748 by 396 pixels
+Dimensions: 108,146 by 57,254 points 
+Resolution: 497,994 by 497,994 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/Partners/administracao_regional_de_saude_de_lisboa_e_vale_do_tejo.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 143K, 314 by 156 pixels
+Dimensions: 114,731 by 57 points 
+Resolution: 197,053 by 197,053 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/acss.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 120K, 204 by 202 pixels
+Dimensions: 33,916 by 33,584 points 
+Resolution: 433,069 by 433,069 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/administracao_regional_de_saude_de_lisboa_e_vale_do_tejo.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 143K, 314 by 156 pixels
+Dimensions: 53,996 by 26,826 points 
+Resolution: 418,699 by 418,698 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/nova_medical_school.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 159K, 300 by 181 pixels
+Dimensions: 49,826 by 30,062 points 
+Resolution: 433,511 by 433,511 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/centro_hospitalar_de_lisboa_ocidental.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 867K, 748 by 396 pixels
+Dimensions: 63,113 by 33,413 points 
+Resolution: 853,321 by 853,321 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/centro_hospitalar_de_lisboa_ocidental.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 867K, 748 by 396 pixels
+Dimensions: 63,113 by 33,413 points 
+Resolution: 853,321 by 853,321 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/centro_hospitalar_de_lisboa_ocidental.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 867K, 748 by 396 pixels
+Dimensions: 63,113 by 33,413 points 
+Resolution: 853,321 by 853,321 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/centro_hospitalar_psiquiatrico_de_lisboa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 106 by 123 pixels
+Dimensions: 29,826 by 34,609 points 
+Resolution: 255,886 by 255,886 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/hospital_de_magalhaes_lemos.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 47K, 206 by 79 pixels
+Dimensions: 69,492 by 26,65 points 
+Resolution: 213,433 by 213,433 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/direcao_geral_da_saude.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 65K, 200 by 84 pixels
+Dimensions: 84,826 by 35,627 points 
+Resolution: 169,76 by 169,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/IMG/centro_hospitalar_psiquiatrico_de_lisboa.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 38K, 106 by 123 pixels
+Dimensions: 29,826 by 34,609 points 
+Resolution: 255,886 by 255,886 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 25,555 by 24,653 points 
+Resolution: 478,963 by 478,963 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 26,156 by 25,233 points 
+Resolution: 467,958 by 467,958 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/Base.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19052K, 3022 by 2152 pixels
+Dimensions: 844,133 by 601,117 points 
+Resolution: 257,76 by 257,76 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/icontime_HwcoAid.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1024K, 512 by 512 pixels
+Dimensions: 15,032 by 15,032 points 
+Resolution: 2452,291 by 2452,291 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/map-marker_318-50706.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1148K, 626 by 626 pixels
+Dimensions: 13,692 by 13,692 points 
+Resolution: 3291,915 by 3291,915 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/Img/2-11888609-teamwork-concept-written-with-chalk-on-blackboard.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 925K, 1012 by 312 pixels
+Dimensions: 343,605 by 106,053 points 
+Resolution: 212,057 by 211,819 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_unl.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 47,664 by 45,982 points 
+Resolution: 256,796 by 256,796 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_eea.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 3105K, 1095 by 726 pixels
+Dimensions: 59,455 by 39,42 points 
+Resolution: 1326,043 by 1326,043 pixels per inch
+
+
+/Users/peachdesign1/Documents/Design/EscolaNacionalSaude/MentalHealth/SITE-MH/logo_ensp.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 81K, 170 by 164 pixels
+Dimensions: 46,569 by 44,926 points 
+Resolution: 262,835 by 262,835 pixels per inch

@@ -1,0 +1,53 @@
+.alert-view {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 3;
+
+  background-color: rgba(0,0,0,0.5);
+
+  &-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-bottom: 200px;
+    max-width: 400px;
+    width: 100%;
+    padding: 16px;
+    background-color: #FFF;
+
+    opacity: 1;
+
+    will-change: transform;
+    backface-visibility: hidden;
+
+    transform: translate3d(0, 100%, 0);
+    animation: slideUp .3s forwards;
+
+    border-radius: 2px;
+
+    &-message {
+      width: 100%;
+      margin: 16px 0 24px 0;
+    }
+
+    &-button {
+      margin-left: auto;
+      padding: 8px 16px;
+
+      text-align: center;
+      color: $base-color;
+
+      &:hover {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+    }
+  }
+}

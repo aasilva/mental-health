@@ -1,0 +1,43 @@
+.hero-section{
+
+    .hero-section-view {
+      width: 100%;
+
+      &.home{
+        height: 369px;
+
+        background-image: url('../images/hero-section-croped.jpg');
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        border-bottom: 5px solid $black;
+
+      }
+
+      &.project,
+      &.timeline,
+      &.events,
+      &.documents,
+      &.team {
+        background-color: $daintree;
+        height: 200px;
+
+        border-bottom: 6px solid $tiffany;
+      }
+
+      &.contacts {
+        background-color: $light-gray;
+        height: 400px;
+
+        border-bottom: 6px solid $black;
+      }
+
+      .map {
+        height:100%;
+        width: 100%;
+
+        transition: all 1s;
+      }
+    }
+}

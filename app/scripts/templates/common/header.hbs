@@ -1,0 +1,39 @@
+<div class="header-container">
+
+    <div class="logo-container">
+        <div id="logo" class="logo">
+            <div class="logo-img"></div>
+            <!--<img src="images/logo-header-en.png" alt="logo header english version">-->
+        </div>
+    </div>
+
+    <div class="menu-button" id="open-menu">
+        <img src="images/icons/ic_menu_black.svg" alt="hamburguer menu icon">
+    </div>
+
+    <div class="menu invisible" id="menu">
+        <div class="close" id="close-menu">
+            <img src="images/icons/ic_close_black.svg" alt="close menu icon">
+        </div>
+        <ul  class="menu-navigation">
+            <li class="menu-navigation-item {{#ifCond catg '===' 'home'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.home}}">{{i18n.route.home}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'project'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.project}}">{{i18n.route.project}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'timeline'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.timeline}}">{{i18n.route.timeline}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'events'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.events}}">{{i18n.route.events}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'documents'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.documents}}">{{i18n.route.documents}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'team'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.team}}">{{i18n.route.team}}</a></li>
+            <li class="menu-navigation-item {{#ifCond catg '===' 'contacts'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.contacts}}">{{i18n.route.contacts}}</a></li>
+        </ul>
+    </div>
+
+    <ul id="navigation" class="navigation">
+        <li class="navigation-item {{#ifCond catg '===' 'home'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.home}}">{{i18n.route.home}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'project'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.project}}">{{i18n.route.project}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'timeline'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.timeline}}">{{i18n.route.timeline}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'events'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.events}}">{{i18n.route.events}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'documents'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.documents}}">{{i18n.route.documents}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'team'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.team}}">{{i18n.route.team}}</a></li>
+        <li class="navigation-item {{#ifCond catg '===' 'contacts'}}selected{{/ifCond}}"><a href="{{fid}}{{i18n.route.contacts}}">{{i18n.route.contacts}}</a></li>
+    </ul>
+
+</div>

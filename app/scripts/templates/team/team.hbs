@@ -1,0 +1,80 @@
+<div class="top-bar"></div>
+
+<h1 class="page-title">{{t 'researchers'}}</h1>
+
+<div class="members-block">
+    {{#each i18n.team.researchers}}
+
+        <div class="member">
+
+          {{!-- <img src="{{avatar}}" alt="{{name}} picture" class="member-avatar"> --}}
+          <div class="member-avatar" style="background-image:url('{{avatar}}')"></div>
+
+          <div class="member-data">
+              <div class="member-name">{{name}}</div>
+              <div class="member-organization">{{organization}}</div>
+              <div class="member-initials">{{initials}}</div>
+              <div class="member-organization-logo" style="background-image:url('{{logo}}')"></div>
+          </div>
+
+        </div>
+
+    {{/each}}
+</div>
+
+<h1 class="page-subtitle experts">{{t 'experts'}}</h1>
+
+<div class="members-block">
+  {{#each i18n.team.experts}}
+      <div class="member">
+
+          <div class="member-avatar" style="background-image:url('{{avatar}}')"></div>
+
+          <div class="member-data">
+              <div class="member-name">{{name}}</div>
+              <div class="member-organization {{#ifCond initials '===' 'ACSS'}}small {{/ifCond}}">{{organization}}</div>
+              <div class="member-initials">{{initials}}</div>
+              <div class="member-organization-logo" style="background-image:url('{{logo}}')"></div>
+          </div>
+
+      </div>
+  {{/each}}
+</div>
+
+<h1 class="page-subtitle partners">{{t 'partners'}}</h1>
+
+<div class="partners-block">
+    <div class="partners-block-wrapper">
+      <a href="http://www.ensp.unl.pt/" target="_blank">
+          <img src="images/organizations/unl_ensp.png" alt="National School of Public Health logo">
+      </a>
+      <a href="http://eeagrants.org/" target="_blank">
+          <img src="images/organizations/eea_grants.png" alt="European Economic Area Grants logo">
+      </a>
+      <a href="https://helsedirektoratet.no/" target="_blank">
+          <img src="images/organizations/norwegian_directorate_of_health.jpg" alt="Norwegian Directorate for Health logo">
+      </a>
+      <a href="http://www.chpl.pt/" target="_blank">
+          <img src="images/organizations/centro_hospitalar_psiquiatrico_de_lisboa.jpg" alt="Lisbon Psychiatric Hospital Center logo">
+      </a>
+      <a href="http://www.hmlemos.min-saude.pt/" target="_blank">
+          <img src="images/organizations/hospital_de_magalhaes_lemos.jpg" alt="Magalhães Lemos Hospital logo">
+      </a>
+      <a href="http://www.chlo.min-saude.pt/" target="_blank">
+          <img src="images/organizations/centro_hospitalar_de_lisboa_ocidental.jpg" alt="West Lisbon Hospital Center logo">
+      </a>
+      <a href="http://www.fcm.unl.pt/" target="_blank">
+          <img src="images/organizations/nova_medical_school.jpg" alt="Nova Medical School logo">
+      </a>
+      <a href="http://www.univr.it/" target="_blank">
+          <img src="images/organizations/universita_degli_studi_di_verona.jpg" alt="Verona University logo">
+      </a>
+      <a href="http://www.uclouvain.be/" target="_blank">
+          <img src="images/organizations/universite_catholique_de_louvain.jpg" alt="Louvain Catholic University logo">
+      </a>
+      <a href="http://www.arslvt.min-saude.pt/" target="_blank">
+          <img src="images/organizations/administracao_regional_de_saude_de_lisboa_e_vale_do_tejo.jpg" alt="Lisbon and Tagus Valley Regional Health Administration logo">
+      </a>
+    </div>
+
+</div>

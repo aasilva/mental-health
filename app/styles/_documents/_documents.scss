@@ -1,0 +1,93 @@
+.documents-view {
+
+  .title-wrapper {
+    width: 100%;
+    background: $white;
+
+    .page-title {
+      @include _(limited-second-full-width);
+      border-top: solid 6px $daintree;
+
+      padding: 36px 0;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  }
+
+  .documents-list {
+    @include _(limited-1200-full-width);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 300px;
+
+    padding-top:32px;
+
+    &-section {
+      margin: 10px;
+      max-width: 260px;
+
+      @include breakpoint(medium) {
+        max-width: 100%;
+        width: 100%;
+      }
+
+      &.large {
+        max-width: 542px;
+
+        @include breakpoint(medium) {
+          max-width: 100%;
+
+        }
+      }
+
+    }
+
+    &-wrapper {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      @include breakpoint(medium) {
+        justify-content: flex-start;
+      }
+    }
+
+  }
+
+  .document-list-title {
+    display: flex;
+    margin-bottom: 18px;
+    width: 100%;
+
+    .line {
+      border-bottom: 1px solid $tiffany;
+      width: 100%;
+      margin-left: 16px;
+    }
+  }
+
+  .documents-presentations-view {
+
+    .document-icon,
+    .document-title {
+      background-color: $tiffany;
+    }
+  }
+
+  .documents-reports-view {
+
+    .document-icon,
+    .document-title {
+      background-color: $daintree;
+    }
+  }
+  .documents-theory-view {
+
+    .document-icon,
+    .document-title {
+      background-color: $aurometal;
+    }
+  }
+
+}

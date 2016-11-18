@@ -1,0 +1,112 @@
+.team-view {
+
+  background-color: $seashell;
+  .top-bar {
+    @include _(limited-second-full-width);
+
+    border-top: solid 6px $daintree;
+
+  }
+
+
+  .page-title,
+  .page-subtitle {
+
+    padding: 24px 0 7px 0;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: $white;
+
+    &.partners,
+    &.experts {
+      padding: 18px 0;
+      font-size: 34px;
+      text-transform: capitalize;
+    }
+
+    &.partners {
+      background-color: $light-gray;
+    }
+  }
+
+  .members-block {
+    display: flex;
+    flex-wrap: wrap;
+    @include _(limited-full-width);
+
+    .member {
+      display: flex;
+      width: 325px;
+      height: 110px;
+      margin: 24px 4px;
+      font-size: 14px;
+
+      background-color: $white;
+
+
+      &-avatar {
+        width: 100px;
+        min-width: 100px;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+      }
+
+      &-data {
+        position: relative;
+        padding: 8px;
+        width: 100%;
+      }
+
+
+      &-name {
+        margin-bottom: 4px;
+      }
+
+      &-organization,
+      &-initials {
+        color: $tiffany;
+        margin-bottom: 4px;
+
+        &.small {
+          max-width: 139px;
+        }
+      }
+
+      &-organization-logo {
+        position: absolute;
+        width: 100px;
+        height: 65px;
+        bottom: 0;
+        right: 0;
+        background-position: right bottom;
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
+    }
+  }
+
+  .partners-block {
+
+
+    background-color: $white;
+
+    &-wrapper {
+      @include _(limited-full-width);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+    a {
+      margin: 16px;
+    }
+
+    img {
+      max-width: 200px;
+      max-height: 88px;
+    }
+  }
+
+}

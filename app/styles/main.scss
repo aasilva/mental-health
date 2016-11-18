@@ -1,0 +1,91 @@
+@import
+    "_components/_reset",
+		"_components/_media",
+		"_components/_variables",
+		"_components/_colors",
+		"_components/_text",
+		"_components/_icons";
+
+html,body,header{
+	@include _(full-width);
+	margin:0;
+}
+html, body {
+	height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+
+	background-color: #fff;
+	font-family: 'Roboto',sans-serif;
+	font-size: 16px;
+	color: $text-color;
+	text-rendering: optimizelegibility;
+	a {
+		-webkit-font-smoothing: antialiased!important;
+	}
+}
+
+.app {
+	position: relative;
+	// @include _(limited-full-width);
+  //min-height: 400px;
+
+	//margin-top: $header_height;
+	z-index: 1;
+  padding-bottom: 48px;
+
+  @include breakpoint(medium) {
+		//margin-top: 300px;
+	}
+
+	@include breakpoint(small) {
+		//margin-top: 300px;
+		padding: 0;
+	}
+
+  &.landing {
+    min-height: 100%;
+  }
+}
+
+.page-title {
+  font-family: "Trebuchet MS";
+}
+
+@import
+		"_components/_spinner",
+		"_common/_header",
+		"_common/_hero-section",
+		"_common/_footer",
+		"_common/_alert",
+    "_landing/landing",
+		"_home/_home",
+    "_project/_project",
+    "_timeline/_timeline",
+    "_events/_events",
+    "_events/_events-item",
+    "_documents/_documents",
+    "_documents/_documents-item",
+    "_team/_team",
+    "_contacts/_contacts";
+
+
+
+
+.hidden {
+	  visibility: hidden !important;
+    opacity: 0 !important;
+    transition: opacity 0.2s, visibility 0.2s !important;
+}
+
+.invisible {
+  display: none !important;
+  opacity: 0 !important;
+  transition: opacity 0.2s, visibility 0.2s !important;
+}
+
+.active {
+	  display: block;
+}
